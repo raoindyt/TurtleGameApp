@@ -1,10 +1,10 @@
 # Netlify Configuration
 [build]
-  # Команда для сборки проекта
-  command = "npm run generate"
+  # Команда для сборки - пропускаем, т.к. папка уже собрана
+  command = "echo 'Build already done'"
   
   # Папка с готовой сборкой для публикации
-  publish = ".output/public"
+  publish = "public"
 
 # Переадресация для SPA (Single Page Application)
 [[redirects]]
