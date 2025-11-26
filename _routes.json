@@ -47,6 +47,7 @@
     "/Sprite/Turtle/AnimalsEgg/Bird.png",
     "/Sprite/Turtle/AnimalsEgg/Horse.png",
     "/Sprite/Turtle/AnimalsEgg/Koala.png",
+    "/Sprite/Turtle/AnimalsEgg/Mouse.png",
     "/Sprite/Turtle/AnimalsEgg/Pig.png",
     "/Sprite/Turtle/AnimalsEgg/Poodle.png",
     "/Sprite/Turtle/AnimalsEgg/Rabbit.png",
@@ -101,7 +102,6 @@
     "/Sprite/Turtle/IceEgg/Chicken.png",
     "/Sprite/Turtle/IceEgg/Cloud.png",
     "/Sprite/Turtle/IceEgg/Cow.png",
-    "/Sprite/Turtle/IceEgg/Dinner.png",
-    "/Sprite/Turtle/IceEgg/Flipped.png"
+    "/Sprite/Turtle/IceEgg/Dinner.png"
   ]
 }
