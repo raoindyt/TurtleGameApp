@@ -26,7 +26,6 @@
     "/Sprite/Ico/Copy.svg",
     "/Sprite/Ico/farm.svg",
     "/Sprite/Ico/Fire.svg",
-    "/Sprite/Ico/Food.png",
     "/Sprite/Ico/Gift.svg",
     "/Sprite/Ico/home.svg",
     "/Sprite/Ico/Info.svg",
@@ -37,7 +36,7 @@
     "/Sprite/Ico/Referrals.svg",
     "/Sprite/Ico/Settings.svg",
     "/Sprite/Ico/Share.svg",
-    "/Sprite/Ico/shop.svg",
+    "/Sprite/Ico/Shop.svg",
     "/Sprite/Ico/slots.svg",
     "/Sprite/Ico/Star.svg",
     "/Sprite/Ico/Trophy.svg",
@@ -102,6 +101,7 @@
     "/Sprite/Turtle/IceEgg/Alien.png",
     "/Sprite/Turtle/IceEgg/Chicken.png",
     "/Sprite/Turtle/IceEgg/Cloud.png",
-    "/Sprite/Turtle/IceEgg/Cow.png"
+    "/Sprite/Turtle/IceEgg/Cow.png",
+    "/Sprite/Turtle/IceEgg/Dinner.png"
   ]
 }

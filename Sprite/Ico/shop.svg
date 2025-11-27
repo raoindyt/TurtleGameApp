@@ -1,7 +1,13 @@
-<svg class="nav-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M3 9l1-2h16l1 2"></path>
-  <path d="M3 9v10a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V9"></path>
-  <path d="M10 14V9"></path>
-  <path d="M14 14V9"></path>
-  <path d="M6 21v-2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2"></path>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Пакет -->
+  <path d="M25 35 L25 82 Q25 88 32 88 L68 88 Q75 88 75 82 L75 35 Z" fill="none" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+  
+  <!-- Верх пакета -->
+  <line x1="25" y1="35" x2="75" y2="35" stroke="white" stroke-width="4"/>
+  
+  <!-- Ручки -->
+  <path d="M38 35 Q38 22 50 22 Q62 22 62 35" fill="none" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Сердечко -->
+  <path d="M50 55 Q50 50 45 50 Q38 50 38 58 Q38 65 50 72 Q62 65 62 58 Q62 50 55 50 Q50 50 50 55" fill="white"/>
 </svg>
