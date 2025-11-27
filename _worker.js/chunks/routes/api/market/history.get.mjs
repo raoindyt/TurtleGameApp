@@ -1,0 +1,2 @@
+import{d as t,g as s,e}from"../../../_/nitro.mjs";import{u as r}from"../../../_/supabase.mjs";import"../../../_/index.mjs";const a=t(async t=>{const a=s(t),o=String(a.turtleId);if(!o)throw e({statusCode:400,message:"Missing turtleId"});const i=r(),{data:d,error:m}=await i.from("market_history").select("price, sold_at").eq("turtle_id",o).order("sold_at",{ascending:!0}).limit(50);if(m)throw e({statusCode:500,message:"Failed to fetch history"});return d});export{a as default};
+//# sourceMappingURL=history.get.mjs.map
