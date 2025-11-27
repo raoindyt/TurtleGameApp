@@ -15,6 +15,7 @@
     "/Sprite/Egg/AnimalsEgg.png",
     "/Sprite/Egg/CaramelEgg.png",
     "/Sprite/Egg/EmotialEgg.png",
+    "/Sprite/Egg/GalaxyEgg.png",
     "/Sprite/Egg/IceEgg.png",
     "/Sprite/Egg/MushroomEgg.png",
     "/Sprite/Egg/StarterEgg.png",
@@ -98,10 +99,9 @@
     "/Sprite/Turtle/FirstEgg/Slime.png",
     "/Sprite/Turtle/FirstEgg/Stars.png",
     "/Sprite/Turtle/FirstEgg/Turtle.png",
-    "/Sprite/Turtle/IceEgg/Alien.png",
-    "/Sprite/Turtle/IceEgg/Chicken.png",
-    "/Sprite/Turtle/IceEgg/Cloud.png",
-    "/Sprite/Turtle/IceEgg/Cow.png",
-    "/Sprite/Turtle/IceEgg/Dinner.png"
+    "/Sprite/Turtle/GalaxyEgg/Bored.png",
+    "/Sprite/Turtle/GalaxyEgg/Crazy.png",
+    "/Sprite/Turtle/GalaxyEgg/Demon.png",
+    "/Sprite/Turtle/GalaxyEgg/Earth.png"
   ]
 }
