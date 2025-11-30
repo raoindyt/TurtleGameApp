@@ -7,10 +7,12 @@
     "/_nuxt/*",
     "/food-icon.png",
     "/tonconnect-manifest.json",
+    "/winter-bg.png",
     "/sounds/BackGround.mp3",
     "/sounds/click.mp3",
     "/sounds/collect.mp3",
     "/sounds/success.mp3",
+    "/Sprite/BackGround_NewYear.png",
     "/Sprite/BackGround.png",
     "/Sprite/BackGround.webp",
     "/Sprite/Egg/AnimalsEgg.png",
@@ -55,6 +57,7 @@
     "/Sprite/Ico/Star.svg",
     "/Sprite/Ico/Trophy.svg",
     "/Sprite/Ico/Users.svg",
+    "/Sprite/Sprites/Labaratory.webp",
     "/Sprite/Sprites/pot.png",
     "/Sprite/Sprites/pot.webp",
     "/Sprite/Turtle/AnimalsEgg/Bat.png",
@@ -99,9 +102,6 @@
     "/Sprite/Turtle/CaramelEgg/Friends.webp",
     "/Sprite/Turtle/CaramelEgg/Gasp.png",
     "/Sprite/Turtle/CaramelEgg/Gasp.webp",
-    "/Sprite/Turtle/CaramelEgg/Hedgehog.png",
-    "/Sprite/Turtle/CaramelEgg/Hedgehog.webp",
-    "/Sprite/Turtle/CaramelEgg/Kisses.png",
-    "/Sprite/Turtle/CaramelEgg/Kisses.webp"
+    "/Sprite/Turtle/CaramelEgg/Hedgehog.png"
   ]
 }
